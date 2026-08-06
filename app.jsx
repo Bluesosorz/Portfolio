@@ -9,16 +9,16 @@ const NAV_LINKS = [
 ];
 
 const PLANTS = [
-  { name: 'Thriving Agave', img: 'home/plant-1.jpg' },
-  { name: 'Flourishing String of Pearls', img: 'home/plant-2.jpg' },
-  { name: 'Blooming Haworthia', img: 'home/plant-3.jpg' },
-  { name: 'Radiant Jade Plant', img: 'home/plant-4.jpg' },
-  { name: 'Content Black-Eyed Susan', img: 'home/plant-5.jpg' },
-  { name: 'Lush Poppy', img: 'home/plant-6.jpg' },
-  { name: 'Happy Hydrangea', img: 'home/plant-7.jpg' },
-  { name: 'Cheerful Hosta', img: 'home/plant-8.jpg' },
-  { name: 'Thriving Snowball Viburnum', img: 'home/plant-9.jpg' },
-  { name: 'Blooming Lavender', img: 'home/plant-10.jpg' },
+  { name: 'Thriving Agave', img: 'home/Plants/plant-1.jpg' },
+  { name: 'Flourishing String of Pearls', img: 'home/Plants/plant-2.jpg' },
+  { name: 'Blooming Haworthia', img: 'home/Plants/plant-3.jpg' },
+  { name: 'Radiant Jade Plant', img: 'home/Plants/plant-4.jpg' },
+  { name: 'Content Black-Eyed Susan', img: 'home/Plants/plant-5.jpg' },
+  { name: 'Lush Poppy', img: 'home/Plants/plant-6.jpg' },
+  { name: 'Happy Hydrangea', img: 'home/Plants/plant-7.jpg' },
+  { name: 'Cheerful Hosta', img: 'home/Plants/plant-8.jpg' },
+  { name: 'Thriving Snowball Viburnum', img: 'home/Plants/plant-9.jpg' },
+  { name: 'Blooming Lavender', img: 'home/Plants/plant-10.jpg' },
 ];
 
 const ROTATING_PHRASES = [
@@ -75,25 +75,25 @@ const CASE_STUDIES = [
 
 const MORE_WORK = [
   {
-    img: 'home/more-sports.jpg',
+    img: 'home/sports-cover.jpg',
     alt: 'xSports app screens',
     title: 'xSports',
     copy: 'Reimagined the experience for extreme sports enthusiasts to explore events, share experiences, and more.',
   },
   {
-    img: 'home/more-greens.jpg',
+    img: 'home/greens-cover.jpg',
     alt: 'Ge Greens Landscape Co. website',
     title: 'Ge Greens Landscape Co.',
     copy: 'Designed a website for an award-winning landscape design firm, showcasing their elegant design expertise.',
   },
   {
-    img: 'home/more-simlq.jpg',
+    img: 'home/simlq-cover.jpg',
     alt: 'SiMLQ Smart Process Management website',
     title: 'SiMLQ Smart Process Management',
     copy: 'Created a website for a data-driven process management startup, highlighting their technology and solutions.',
   },
   {
-    img: 'home/more-photography.jpg',
+    img: 'home/photography-cover.jpg',
     alt: 'Photography',
     title: 'Photography',
     copy: 'Some moments in life that I caught with my phone.',
